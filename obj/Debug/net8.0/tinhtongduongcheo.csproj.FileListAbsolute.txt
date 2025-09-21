@@ -1,0 +1,14 @@
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\bin\Debug\net8.0\tinhtongduongcheo.exe
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\bin\Debug\net8.0\tinhtongduongcheo.deps.json
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\bin\Debug\net8.0\tinhtongduongcheo.runtimeconfig.json
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\bin\Debug\net8.0\tinhtongduongcheo.dll
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\bin\Debug\net8.0\tinhtongduongcheo.pdb
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\tinhtongduongcheo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\tinhtongduongcheo.AssemblyInfoInputs.cache
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\tinhtongduongcheo.AssemblyInfo.cs
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\tinhtongduongcheo.csproj.CoreCompileInputs.cache
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\tinhtongduongcheo.dll
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\refint\tinhtongduongcheo.dll
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\tinhtongduongcheo.pdb
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\tinhtongduongcheo.genruntimeconfig.cache
+D:\Test\tinhtongduongcheo\tinhtongduongcheo\obj\Debug\net8.0\ref\tinhtongduongcheo.dll
