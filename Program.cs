@@ -39,9 +39,9 @@
             for (int i = 0; i < n; i++)
             {
                 sum += matrix[i][i]; 
-                sum += matrix[i][n - 1 - i]; 
+            
             }
-            Console.WriteLine($"Tổng các phần tử trên hai đường chéo chính và phụ là: {sum}");
+            Console.WriteLine($"Tổng các phần tử trên đường chéo chính là: {sum}");
         } 
 
     }
